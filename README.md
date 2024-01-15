@@ -23,9 +23,10 @@ Click the link provided at the top of the repo or here to open the app.
 
 ## Screenshots
 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+![wordleStartPage](images\wordleStart.png)
+![wordleLosePage](images\wordleIncorrect.png)
+![wordleWinPage](images\wordleCorrect.png)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies & Frameworks
 I used `React`, `Node.js`, `Javascript`, `CSS`, ...
