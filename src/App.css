@@ -1,7 +1,3 @@
-#my{
-  zoom: 80%;
-  }
-
 .App {
   background-color: #121213;
   color: white;
@@ -34,11 +30,12 @@ nav h1 {
 }
 .game {
   width: 100vw;
-  height: calc(100vh - 170px);
+  height: calc(100vh - 130px);
   display: flex;
   align-items: center;
-  padding-top: 50px;
+  padding-top: 30px;
   flex-direction: column;
+
 }
 
 .gameStage {
@@ -47,6 +44,8 @@ nav h1 {
   display: flex;
   flex-direction: column;
   border: 1px solid black;
+  transform: scale(0.9);
+
 
 }
 
@@ -60,7 +59,7 @@ nav h1 {
 .letter {
   color: white;
   place-items: center;
-  border: 3px solid #333;
+  border: 2px solid #333;
   font-family: Arial;
   font-weight: bolder;
   font-size: 32px;
@@ -83,9 +82,11 @@ nav h1 {
 }
 
 .keyboard {
-  width: 750px;
+  width: 700px;
   height: 300px;
-  margin-top: 60px;
+  margin-top: 20px;
+  transform: scale(0.9)
+
 }
 
 .keyboardRow1Div {

@@ -2,7 +2,7 @@
 Keshav's Wordle App
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Deployed on Netlify [Keshav's-Wordle-App](https://65a4d555cd15ad0bf9b17c5b--steady-dolphin-8d8a52.netlify.app/)
 
 ## Table of Content:
 
@@ -16,10 +16,10 @@ Access my site at [google.com](https://google.com)
 - [License](#license)
 
 ## About The App
-This project was bootstrapped with yarn create react app
+This project was bootstrapped with npx create react-app
 This app was coded and iterively worked on from December - January 2024 by Keshav Narula for the purpose of further learning how use and build with React, Node.js, Javascript in a full stack web app. 
 This version of the popular game can be reset and replayed as many times as desired, the bank of words can also be altered locally in the wordList.txt file.
-Click the link provided at the top of the repo or here to open the app.
+The app is deployed on Netlify, Click the link provided at the top of the repo or [HERE](https://65a4d555cd15ad0bf9b17c5b--steady-dolphin-8d8a52.netlify.app/) to open the app.
 
 ## Screenshots
 
@@ -34,7 +34,7 @@ I used `React`, `Node.js`, `Javascript`, `CSS`
 ## Setup to run locally
 - download or clone the repository
 - run `npm install`
-- run `yarn start`
+- run `npm start`
 
 ## Status & Versions
  Functionality for Register and login in as well as score tracking not fully functioning still being implemented in perhaps an updated version
@@ -42,5 +42,5 @@ I used `React`, `Node.js`, `Javascript`, `CSS`
 
 ## License
 
-MIT license @ [author](author.com)
+MIT license @ [Keshav Narula](LICENSE)
 
