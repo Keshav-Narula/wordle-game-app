@@ -23,13 +23,13 @@ Click the link provided at the top of the repo or here to open the app.
 
 ## Screenshots
 
-![wordleStartPage](images\wordleStart.png)
-![wordleLosePage](images\wordleIncorrect.png)
-![wordleWinPage](images\wordleCorrect.png)
+<img src="images\wordleStart.png" width="700" >
+<img src="images\wordleIncorrect.png" width="700" >
+<img src="images\wordleCorrect.png" width="700" >
 
 
 ## Technologies & Frameworks
-I used `React`, `Node.js`, `Javascript`, `CSS`, ...
+I used `React`, `Node.js`, `Javascript`, `CSS`
 
 ## Setup to run locally
 - download or clone the repository
