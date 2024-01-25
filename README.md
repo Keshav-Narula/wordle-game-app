@@ -1,6 +1,8 @@
 # Project Title
 Keshav's Wordle App
 
+<a href="placeholder.com" target="_blank">Opens in new tab</a>
+
 ## Demo link:
 Deployed on Vercel [wordle-app](https://charming-rugelach-0961c3.netlify.app/){:target="_blank"}
 
