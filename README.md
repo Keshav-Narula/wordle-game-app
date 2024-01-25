@@ -2,7 +2,7 @@
 Keshav's Wordle App
 
 ## Demo link:
-Deployed on Vercel [wordle-app](https://wordle-game-hoz6vtrb0-keshav-narulas-projects.vercel.app/)
+Deployed on Vercel [wordle-app](https://charming-rugelach-0961c3.netlify.app/)
 
 ## Table of Content:
 
@@ -19,7 +19,7 @@ Deployed on Vercel [wordle-app](https://wordle-game-hoz6vtrb0-keshav-narulas-pro
 This project was bootstrapped with npx create react-app
 This app was coded and iterively worked on from December - January 2024 by Keshav Narula for the purpose of further learning how use and build with React, Node.js, Javascript in a full stack web app. 
 This version of the popular game can be reset and replayed as many times as desired, the bank of words can also be altered locally in the wordList.txt file.
-The app is deployed on Netlify, Click the link provided at the top of the repo or [HERE](https://wordle-game-hoz6vtrb0-keshav-narulas-projects.vercel.app/) to open the app.
+The app is deployed on Netlify, Click the link provided at the top of the repo or [HERE](https://charming-rugelach-0961c3.netlify.app/) to open the app.
 
 ## Screenshots
 
