@@ -2,7 +2,7 @@
 Keshav's Wordle App
 
 ## Demo link:
-Deployed on Vercel [wordle-app](https://charming-rugelach-0961c3.netlify.app/)
+Deployed on Vercel [wordle-app](https://charming-rugelach-0961c3.netlify.app/){:target="_blank"}
 
 ## Table of Content:
 
