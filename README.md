@@ -3,7 +3,7 @@ Keshav's Wordle App
 
 
 ## Demo link:
-Deployed on here [wordle-app](https://charming-rugelach-0961c3.netlify.app/)
+Deployed here [wordle-app](https://charming-rugelach-0961c3.netlify.app/)
 
 ## Table of Content:
 
