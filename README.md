@@ -29,7 +29,7 @@ The app is deployed on Netlify, Click the link provided at the top of the repo o
 
 
 ## Technologies & Frameworks
-I used `React`, `Node.js`, `Javascript`, `CSS`
+`React`, `Node.js`, `Javascript`, `CSS`
 
 ## Setup to run locally
 - download or clone the repository
